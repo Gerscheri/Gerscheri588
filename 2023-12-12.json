@@ -1,0 +1,26 @@
+{
+  "name": "Amy Bowen",
+  "age": 30,
+  "address": {
+    "street": "Gicijo Court",
+    "city": "Perbarwep",
+    "state": "WA",
+    "zip": "00880"
+  },
+  "contact": {
+    "phone": "(210) 742-3913",
+    "servicePhone": "800335645"
+  },
+  "birthday": "1982-09-12T09:59:28.940Z",
+  "ip": "77.137.195.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Koh huksad eze hu batuki fuj meuzi milrakmo ve nogow leoca ci vem zuwi toje citata hal tucub. Cu hozis gur gitoig ilu mipuzri et kooz zo duzpe elbase gah zosozpuw wez kiv. Osigoih te bozis rojcoc siget neafi mijcofe naavja ojewi vamel kej kuclubwi. Niar bovutna naozi pot ok okurumi am kapdi epezul lus seamoco fibi. Dasa wur tu hoplo ala ufe gietauc dona ga zutilvat cani va guadita bol mod puzijebin ojoifu mil. Heoz zuvoj ono jog fioji reb jizmo za vu ramej ifa dele wa. Uj vi cek tapozin durzucok ekfapro dotpige ceujasam pownif riiwso fosnemlu kameblid tiuplu.",
+    "bio": "Nuzcijom ucapujwuz lu itjise jiwkam gag li vuumu dijigru utni gupo ta re ugka lel woskas hawhetud. Ce gikun valabeb obo mofivaf wa jarjuso rip oh ziswur fullecsam iburaz bah. Row riruniz dolunbit ruerifop ja bocor como ucnowuj lahsojpek bi gitgahi ruvafit so tawumag fizulih gomepukon."
+  },
+  "apiKey": "6c7823ee2aa70d15c7d8840da0ada39f86fb7951295462ed98d864a8d7547449",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
