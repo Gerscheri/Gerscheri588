@@ -1,0 +1,26 @@
+{
+  "name": "Sue Norris",
+  "age": 44,
+  "address": {
+    "street": "Kahub Place",
+    "city": "Tectuuh",
+    "state": "WY",
+    "zip": "59530"
+  },
+  "contact": {
+    "phone": "(363) 941-4591",
+    "servicePhone": "800826973"
+  },
+  "birthday": "2000-06-10T22:39:12.999Z",
+  "ip": "87.26.34.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Mo zemba rurhegfe ro cutsu uzehoasa neav kidmos zuv wogluh vu ah wi atali fa dakam. Udafo ul seb lotjircak laj lafnuh cun fiwilu bari ujeecu zute fe laf jujit cu wiisi omewortop. Uvowanap gup wovu fa ilo faaruifi pe jufat sanegere enzaseg difed dekjuizo cajpuho kam ve wo debem to. Jampivzi jicmo riamne ke dupuvvom leshadiv pupsiit ewomoew juw neto nikuh emopirah vubut ri wadodfuv mu cicufza jupcidav. Ac dawbezbu sarehnum curime tuwtop obdibos du nedidvov lab tocced digesel rovrimje fogvorni tesiwa fueva uvahelru ja su. Ketnaz hil su wazgidan go satpuwvan fuk uwmaz dif suh neji ubu beuz bagicu vevze wepewna voproci al. Amilietu lu sazkodama medhav nog mapa la nocekdaw bidel lojmag ron tujulave ziruhodi lacoge wunhos jubaljoj zon.",
+    "bio": "Egehowig zono jophu maoceosa ga aho pihrize mecoteuzi kepocu jazov esoumo atojwi vik azbelnet. Gum lejasno ojkegi ubu maggadma ufomouv reh neketri cijjuro dunu eva olmibem lifiaki jagupo. Rupgu vecig tav fiz juromo wirbuju mocji wav ewugigipu sagez pimouda bikto van virec. Hos vuge bit hazizdi lunubbi ci ijoreak navceve huade vafvu gij edaipo kep cisi. Hozmadru ur tiwu cevo hu mijbe nomaf ravkizfa horep led wafbesbu sop unetiri."
+  },
+  "apiKey": "8aa86bbd826a78d4faf0a906080a0fc01d107cd8db03ba3711aa61684fbecdeb",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
