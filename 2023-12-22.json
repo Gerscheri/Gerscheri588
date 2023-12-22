@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Caldwell",
+  "age": 60,
+  "address": {
+    "street": "Movep Key",
+    "city": "Subawti",
+    "state": "NY",
+    "zip": "16583"
+  },
+  "contact": {
+    "phone": "(548) 840-3607",
+    "servicePhone": "800228618"
+  },
+  "birthday": "1970-09-22T20:28:57.566Z",
+  "ip": "104.72.205.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Zegkomu rog sewu tefevow nuzpiw zauti zokuvuj bo nibi dobouwu geghi rebsib wihi gudugami eca neg usawozi. Cakje zizzibol hoz hizbul ras jauf womutlo pesas rahmektob neffo uv hi uca. Bacjofiv hagbon himpivke sak zujkuzwut aranin vi va ab dehjahek ajbihad hibpabji.",
+    "bio": "Otu la bo gagoc oza teb kuw edhuduv jabkair zuahtin vukog wuusi bowper ifsiz bufla kaeju. Ul lekev zeluwvo safuc no zaif hama solho huswogmot woham tipehda roprubewe bif. Ginlov obo ze zoc zelbina re fowi zitra peom doli ri iri zekver no usiupami fujapod fipreni aroke."
+  },
+  "apiKey": "0173c024fbad010f5f25b7267f6024c14ddf9e1e272259cd4f840febcd5a40a4",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
