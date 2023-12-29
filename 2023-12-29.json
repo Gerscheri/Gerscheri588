@@ -1,0 +1,26 @@
+{
+  "name": "Claudia Duncan",
+  "age": 65,
+  "address": {
+    "street": "Huir Turnpike",
+    "city": "Uzgeera",
+    "state": "KS",
+    "zip": "36039"
+  },
+  "contact": {
+    "phone": "(787) 878-1726",
+    "servicePhone": "800885726"
+  },
+  "birthday": "1990-08-05T08:00:15.771Z",
+  "ip": "189.87.12.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Honomva hoglumi avah du ta ti duz febal uv ug pe inuof pikaed. Ducfe zopu nod kepene gomaz bafe loasa ug tedkak ugicuv geip ces. Admizleg ihjug mosed lafa jitelul kibik lo icsaz cavriroc wukguzi kirletwol diz.",
+    "bio": "Ga kasuh konuw covemluc sijhuja dodmu bi li jec wekaum bavcurcom zodtir owahirat pe sacudu wedaf feklitra. Giek lojitlok jutnibo pufid kavokuh gurmosoj hurpu hakgeh rulas eheguhuw bek mipupa diw. Naiga aze jamfezuza lojojav jif pebonboz vopomna ro po novobrir cehcofap zemfego baf ijunul mipum bijlowli oge nop. Su fe bu puf mur zeb sumcac soj lom ehukajnad zivhek cavluz nekce sufbu kunlawfop icke fad."
+  },
+  "apiKey": "38ffaa41bb1c53ab406a9a52d5b6e545fbf6045a6793841b437047035ccde825",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
