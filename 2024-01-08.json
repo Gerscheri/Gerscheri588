@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Silva",
+  "age": 51,
+  "address": {
+    "street": "Lase Pass",
+    "city": "Wehuwieze",
+    "state": "AR",
+    "zip": "39206"
+  },
+  "contact": {
+    "phone": "(837) 691-9215",
+    "servicePhone": "800146987"
+  },
+  "birthday": "1967-05-02T05:36:46.810Z",
+  "ip": "213.59.165.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Mi namlamfes loiz toha pume ja se houn dewug co hawnazguw aseezru ja. Buohe valrok favlez la laaltul radul jekso lapuju abevel rinu kuenewi jefoti dusazew monotoj. Imik wisca gojok rivgunel daklumac nuvkih fi pasne koen ud jiucu jah fitde costuk alraud carwaj lakhusloz de. Azbes da aki gohahju noz sarejrul taer enzozos ijifuga jomes kutan curmavo divecko ojpeka jeiwibon.",
+    "bio": "Rorpamlek pitapecu ka ri fafpinse ki vocov da rol ujauze ru map sulo mawkiv riwhocim kioj azuwu. Rim eroowiun ul nefup gemru cuharni buha iw siw ohfar zej lijfeucu hifi pereshu gafouho focidu sak nu. Evevowlo ifeunu jutizijej li po eg fegohni radih bushug fitla ro pig."
+  },
+  "apiKey": "187f53ed5b840e3b77403cc9b67ead17fd9ab7f4f285293e97733a2816e59a02",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
