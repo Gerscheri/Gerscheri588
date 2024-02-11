@@ -1,0 +1,26 @@
+{
+  "name": "Francis Davis",
+  "age": 51,
+  "address": {
+    "street": "Kejog Grove",
+    "city": "Manbohcu",
+    "state": "AR",
+    "zip": "52624"
+  },
+  "contact": {
+    "phone": "(218) 387-1018",
+    "servicePhone": "800557928"
+  },
+  "birthday": "1985-06-12T04:09:01.600Z",
+  "ip": "211.220.187.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Obeliwe kuhhiol gabke zuju wozsaw fuv dafolote su ere wonef litabaj pahibu zupathu. Pahti epanuw ecfopu wo aguheg ronarna le nidef daajtot pavoc senrokav siz mutmo asijfob tavem losposi. Ucueheaw ala kamsebaw hafwal ofo ifezomo jawera jizwaci uremavow uhiruwmol digdisi novusa.",
+    "bio": "Poniko miruh foki hapevole pisappaw acodamgic fuaka mizkup ilodoafu hajku wubbej rezhijem efrop acferu fulwevfu zed. Gekvotvu demwisa nik sawfohew hetiba siowire cakel ikmaasa vubgamoc zi duhel ted diddaawi awupa tag. Tefa vawwivfer uze fawpudac ris pam cos padvomcez jegak tub lawutrol pihi cuha."
+  },
+  "apiKey": "2e863b2ba182a8685ce8ae40ddae3c9ebf0caa76c5643460ed5bedf588c0d185",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
