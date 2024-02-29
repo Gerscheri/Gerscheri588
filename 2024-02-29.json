@@ -1,0 +1,26 @@
+{
+  "name": "Nina Moran",
+  "age": 52,
+  "address": {
+    "street": "Bobuwe Loop",
+    "city": "Fatenva",
+    "state": "MT",
+    "zip": "93629"
+  },
+  "contact": {
+    "phone": "(844) 625-8131",
+    "servicePhone": "800342924"
+  },
+  "birthday": "2003-09-22T04:26:33.591Z",
+  "ip": "126.254.225.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Fona agac palelfa zinobpeb cozcun uv na rotil zilvebpo moczu wo cidheij risepow fi puczilli povjedliw tafehi. Manoto cicalca pot migif esogec felis jacpanpu ornifzo wirwur beb raj labkive upulele ofaloji. Malumo ro jivuvew wieba kulburde ror dibokbaj edatup pokocemij he ji pousabuf oze agwuva.",
+    "bio": "Homepak difgajat unavke tuadasef hildav pagkuje gujnouho vufema dum uhuinuas su biaj. To puvizgub mibe ew wesur tap mok vova amuol we todivo fa gopi maf. Aw miha evohu gutkaf waz agugu ze nujnup powrujef evazipa wemiipe vevezu. Jidcikem po lozmismo kufinapig of ehwamgif ziucug tijij res dud huc bep."
+  },
+  "apiKey": "1bbac4f5ead6cedd538cd026a10b32bda79eb542a8b6dd3712afcb201e6b12e6",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
