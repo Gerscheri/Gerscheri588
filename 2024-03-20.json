@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Delgado",
+  "age": 34,
+  "address": {
+    "street": "Nibji Highway",
+    "city": "Apwuda",
+    "state": "GA",
+    "zip": "49177"
+  },
+  "contact": {
+    "phone": "(735) 851-4966",
+    "servicePhone": "800444375"
+  },
+  "birthday": "1995-03-04T13:08:03.300Z",
+  "ip": "36.65.148.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Fahlon conlat ipjed mo kezudu vagohu di vanzeljuv du esnazon libe recovun mahok soepbu. Deki ika gezhusho aca iz bidesu koivaahu pohkiskiv sunra tev rep jissomef vos huh difampu di hevafu. Ahijta va ahepilif to taufohu huhmuzsij lidwa saz geuh zefazpis ode kuor tomuima ci agauklu.",
+    "bio": "Ciclilef jonodkeb gewushi adi ko elorhak hat modeg angazte amoodvac wofsegda wofoawa ve lud moh pibi potmonoz wov. Jutulo ga nukgiuk fos wewdeg kisop sic hijbi rawe amgopi kavo gev kipik vesut ke nolcaj. Ig neeb ot zivdoaz no eskaj fu gub jirrip bofle elwa kuzti te gebmim."
+  },
+  "apiKey": "3676196d81c325ed86c136274d9976e0e77cfa953b6d58fa124e94dc5d807732",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
