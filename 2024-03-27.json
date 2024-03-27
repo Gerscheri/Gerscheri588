@@ -1,0 +1,26 @@
+{
+  "name": "Barry Gonzales",
+  "age": 28,
+  "address": {
+    "street": "Ruwas Court",
+    "city": "Parohola",
+    "state": "AR",
+    "zip": "23746"
+  },
+  "contact": {
+    "phone": "(924) 904-3900",
+    "servicePhone": "800293896"
+  },
+  "birthday": "1976-05-01T15:09:15.637Z",
+  "ip": "70.254.14.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Behdasfur ri ce oksu legfunfa azri pobojajo caw wesnu usme lad wefep kootosez wavfalzi pisdutis wehassun tifec. Iw ob kud nizengi jarote nirneg epnali iz fa heh ari falza. Ag sowiweul iseladod segol jamzat behkuv ragbetlen howu gisdinra sahupfeg vovin gibapino da bofi susu noazo.",
+    "bio": "Honomwag fuhu sipoeru lu wecgu itehgo lizworusa vuk detlivca epocal gopi gavdosez zaticen naub. Gaungoh namoh inupu gugedug cuefiepu wonketof mubi waw redan we mevhawluz saf ospaan su suk ewuujavu kujavar. Vovhi bidrop vagpohsil mujen votcege on pezkiufe ozoca soncusuho zapfe enu wu mi gewpetge bekterte fo."
+  },
+  "apiKey": "82373bdfcdd2e71eefb59d83858f58bb788f79e5549f57ceb6af4448bdc55efe",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
